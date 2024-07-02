@@ -1,0 +1,8 @@
+my_string = input("Введите название универстита: ")
+count = len(my_string)
+print(count)
+print(my_string.upper())
+print(my_string.lower())
+print(my_string.replace(" ",""))
+print(my_string[:1])
+print(my_string[-1:])
